@@ -1,0 +1,12 @@
+/home/usman/anchor/first/target/bpfel-unknown-unknown/release/deps/spl_token-021b4009ceb64a6c.so: /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/lib.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/error.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/instruction.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/native_mint.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/processor.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/state.rs
+
+/home/usman/anchor/first/target/bpfel-unknown-unknown/release/deps/libspl_token-021b4009ceb64a6c.rlib: /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/lib.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/error.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/instruction.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/native_mint.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/processor.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/state.rs
+
+/home/usman/anchor/first/target/bpfel-unknown-unknown/release/deps/spl_token-021b4009ceb64a6c.d: /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/lib.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/error.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/instruction.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/native_mint.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/processor.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/state.rs
+
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/lib.rs:
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/error.rs:
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/instruction.rs:
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/native_mint.rs:
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/processor.rs:
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.3.1/src/state.rs:

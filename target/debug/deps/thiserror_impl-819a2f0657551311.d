@@ -1,0 +1,12 @@
+/home/usman/anchor/first/target/debug/deps/libthiserror_impl-819a2f0657551311.so: /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/lib.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/ast.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/attr.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/expand.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/fmt.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/generics.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/prop.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/valid.rs
+
+/home/usman/anchor/first/target/debug/deps/thiserror_impl-819a2f0657551311.d: /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/lib.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/ast.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/attr.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/expand.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/fmt.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/generics.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/prop.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/valid.rs
+
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/lib.rs:
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/ast.rs:
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/attr.rs:
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/expand.rs:
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/fmt.rs:
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/generics.rs:
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/prop.rs:
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/valid.rs:

@@ -1,0 +1,20 @@
+/home/usman/anchor/first/target/release/deps/librustversion-fe977e49d35783f6.so: /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/lib.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/attr.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/bound.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/constfn.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/date.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/error.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/expand.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/expr.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/iter.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/release.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/time.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/token.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/version.rs /home/usman/anchor/first/target/release/build/rustversion-8cec901c22654da7/out/version.expr
+
+/home/usman/anchor/first/target/release/deps/rustversion-fe977e49d35783f6.d: /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/lib.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/attr.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/bound.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/constfn.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/date.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/error.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/expand.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/expr.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/iter.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/release.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/time.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/token.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/version.rs /home/usman/anchor/first/target/release/build/rustversion-8cec901c22654da7/out/version.expr
+
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/lib.rs:
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/attr.rs:
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/bound.rs:
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/constfn.rs:
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/date.rs:
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/error.rs:
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/expand.rs:
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/expr.rs:
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/iter.rs:
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/release.rs:
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/time.rs:
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/token.rs:
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/version.rs:
+/home/usman/anchor/first/target/release/build/rustversion-8cec901c22654da7/out/version.expr:
+
+# env-dep:OUT_DIR=/home/usman/anchor/first/target/release/build/rustversion-8cec901c22654da7/out

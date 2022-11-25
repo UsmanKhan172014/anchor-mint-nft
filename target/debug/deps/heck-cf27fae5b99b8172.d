@@ -1,0 +1,14 @@
+/home/usman/anchor/first/target/debug/deps/heck-cf27fae5b99b8172.rmeta: /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/lib.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/camel.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/kebab.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/mixed.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/shouty_kebab.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/shouty_snake.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/snake.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/title.rs
+
+/home/usman/anchor/first/target/debug/deps/libheck-cf27fae5b99b8172.rlib: /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/lib.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/camel.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/kebab.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/mixed.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/shouty_kebab.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/shouty_snake.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/snake.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/title.rs
+
+/home/usman/anchor/first/target/debug/deps/heck-cf27fae5b99b8172.d: /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/lib.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/camel.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/kebab.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/mixed.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/shouty_kebab.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/shouty_snake.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/snake.rs /home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/title.rs
+
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/lib.rs:
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/camel.rs:
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/kebab.rs:
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/mixed.rs:
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/shouty_kebab.rs:
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/shouty_snake.rs:
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/snake.rs:
+/home/usman/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/title.rs:
